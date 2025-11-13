@@ -1,0 +1,9 @@
+Wektor: 1 2 3 4 
+Ustawiono wartość 10 na miejscu 0.
+Błąd: nieprawidłowy indeks.
+Błąd: nieprawidłowy indeks.
+Wektor: 10 2 3 4 
+Ustawiono wartość 15 na miejscu 1.
+Wektor: 10 15 3 4 
+Wartość na miejscu 1: 15
+Błąd: nieprawidłowy indeks.

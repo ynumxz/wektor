@@ -1,0 +1,13 @@
+push 1
+print
+push 2
+print
+push 3
+print
+push 4
+print
+push 5
+print
+set 4 4
+print
+exit
